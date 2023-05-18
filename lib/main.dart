@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
       // Application name
       title: 'Flutter Hello World',
       debugShowCheckedModeBanner: false,
-      initialRoute: "/listview1",
+      initialRoute: "/listview2",
       routes: {
         "/listview1": (BuildContext context) => ListView1(),
         "/listview2": (BuildContext context) => ListView2(),
